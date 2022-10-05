@@ -1,0 +1,25 @@
+{
+  "name": "coursera-react",
+  "version": "1.0.0",
+  "description": "thi is sample react project",
+  "main": "sample.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satyapadamati/React-practice.git"
+  },
+  "author": "padamati satya kiran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satyapadamati/React-practice/issues"
+  },
+  "homepage": "https://github.com/satyapadamati/React-practice#readme",
+  "devDependencies": {
+    "light-server": "^2.9.1",
+    "lite-server": "^2.6.1"
+  }
+}
